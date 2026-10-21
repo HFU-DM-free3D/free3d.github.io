@@ -29,13 +29,13 @@ We presented the project at the European Machine Vision Forum 2024 in Mulhouse, 
 
 # Acknowledgements
 
-We thank Patrick Kaserer for his active support during the development of the project.
+We thank [Patrick Kaserer](https://patrick-kaserer.de/) for his active support during the development of the project.
 
 # BibTex
 
 If you find Free3D useful for your work please cite:
 ```
-@article{brunn2024free3d,
+@misc{brunn2024free3d,
   author    = {Brunn, Felix and Christmeier, Jan and Häcker, Nick P. and Stempfle, Laura C. and Willmann, Lukas and Zakowski, Simon and Hahne, Prof. Dr. Uwe},
   title     = {Free3D - Free-viewpoint 3D video creation},
   year      = {2024}
