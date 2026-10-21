@@ -22,6 +22,15 @@ This README contains links to our repositories:
 
 [Link to our poster](./static/poster/Free3D_Poster.pdf)
 
+# Presentation slides:
+
+We presented the project at the European Machine Vision Forum 2024 in Mulhouse, France. 
+[Link to slides](https://hawe.pages.fa1.hs-furtwangen.de/uhahne/projects/furtwangen/free3Dslides_v1.pdf)
+
+# Acknowledgements
+
+We thank Patrick Kaserer for his active support during the development of the project.
+
 # BibTex
 
 If you find Free3D useful for your work please cite:
